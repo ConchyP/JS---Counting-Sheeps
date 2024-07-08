@@ -1,0 +1,25 @@
+{
+  "name": "js---counting-sheeps",
+  "version": "1.0.0",
+  "description": "Instrucciones:",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConchyP/JS---Counting-Sheeps.git"
+  },
+  "author": "Conchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConchyP/JS---Counting-Sheeps/issues"
+  },
+  "homepage": "https://github.com/ConchyP/JS---Counting-Sheeps#readme",
+  "dependencies": {
+    "vitest": "^2.0.1"
+  }
+}
