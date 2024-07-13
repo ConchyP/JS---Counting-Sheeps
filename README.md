@@ -16,5 +16,5 @@ Input:
 2) list = [ false, false, false ]
 
 Output:
-1) There are 17 sheep in total
+1) There are 17 sheeps in total
 2) UPS!!! Wolfs eaten Sheeps
